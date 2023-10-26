@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jagan Mohan
 - 👀 I’m interested to built apps
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate with reputed company
 - 📫 My Email is jagandammala1234@gmail.com,I'm avilable in whatsapp :- 8919205739.
 
